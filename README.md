@@ -1,2 +1,2 @@
 # VIRAJ
-First git repositry
+First git repositoryy
